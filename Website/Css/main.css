@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+}
+.div1{
+    margin: auto 0;
+    text-align: center;
+    padding: 0px 40% 0px 40%;
+}
+.li1{
+    margin: 0 20% 0 20% 0;
+}
+.Contact{
+    background-image: url("../Image/Background_contact.png");
+}
+.About{
+    background-image: url("../Image/Background_about.png");
+}
+.Banner{
+    background-image: url("../Image/background.jpg") center center;
+}
+h1, .tag, h2{
+    text-align: center;
+}
